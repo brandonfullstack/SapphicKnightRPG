@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://tpt2y5yr72fa"]
+
+[ext_resource type="Texture2D" uid="uid://cul6hlem2nw2g" path="res://Assets/knight/ani/attack1.png" id="1_730ig"]
+
+[node name="jukebox" type="CharacterBody2D"]
+
+[node name="Attack1" type="Sprite2D" parent="."]
+position = Vector2(0, -6)
+texture = ExtResource("1_730ig")

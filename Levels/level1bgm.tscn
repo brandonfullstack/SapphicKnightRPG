@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ueutfbmovc5v"]
+
+[ext_resource type="AudioStream" uid="uid://cxvt0rnjghsdk" path="res://Music/SapphicKnightBackground.wav" id="1_8iuqk"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_8iuqk")
+volume_db = -23.07
+autoplay = true

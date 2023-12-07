@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cc8y7x6wtgt2l"]
+
+[ext_resource type="AudioStream" uid="uid://qtklfxnx7k62" path="res://Music/SapphicKnightSadDeathScene.wav" id="1_qovge"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_qovge")
